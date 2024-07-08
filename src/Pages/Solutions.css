@@ -1,0 +1,12 @@
+.Solutions {
+    display: flex;
+    height: 100vh;
+    background-color: #080707;
+}
+.Solutions .TabContainer {
+    background-color: purple;
+    height: 100vh;
+    width: 100%;
+    flex: 1;
+    align-self: start;
+}
